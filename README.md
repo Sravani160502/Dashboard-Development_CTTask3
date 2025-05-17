@@ -3,7 +3,7 @@
 **INTERN ID** : CT12WVZG  
 **DOMAIN** : Data Analytics  
 **DURATION** : 12 weeks  
-**MENTOR** : Neela Santhosh Kumar  
+**MENTOR** : Neela Santhosh Kumar   
 
 
 Task Description : 
